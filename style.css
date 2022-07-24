@@ -107,7 +107,7 @@ h4{
     margin: 20px;
 }
 #portfolio{
-    background: url(/assets/bg_novo.png);
+    background: url(assets/bg_novo.png);
     background-size:90%;
     background-repeat: no-repeat;
     background-position: bottom;
